@@ -62,8 +62,6 @@ BenchmarkDotNet.Artifacts/
 project.lock.json
 project.fragment.lock.json
 artifacts/
-FindMyPet/appsettings.json
-DataAccessLayer/Concrete/BackendContext.cs
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
